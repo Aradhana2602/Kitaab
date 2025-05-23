@@ -51,17 +51,7 @@ Feature	Description
 👤 User Management:	View and manage user accounts and roles.
 🗂 Category Management:	Create and update book categories.
 
-Screenshots:
 
-Feature	Preview
-
-Admin Login	
-Manage Books	
-Add Book	
-Update Book	
-Users	
-Categories	
-Update Category	
 
 🛡️ Security Notice
 ⚠️ Sensitive data such as API keys and database credentials should never be hardcoded into source files.

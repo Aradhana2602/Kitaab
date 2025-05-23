@@ -47,8 +47,4 @@ The MERN Bookstore project includes the following features:
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Contact
-
-If you have any questions or feedback, feel free to contact us at [amine.allafi@gmail.com](mailto:amine.allafi@gmail.com)
+This project is licensed under the [MIT License]
