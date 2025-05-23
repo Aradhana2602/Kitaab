@@ -1,4 +1,5 @@
 📚 Book Store Application
+
 A full-featured MERN stack web application for browsing, managing, and purchasing books online. Built with MongoDB, Express.js, React.js, Node.js, and integrated with Stripe for payments. Features include Redux for state management and JWT for secure user authentication.
 
 🚀 Tech Stack
